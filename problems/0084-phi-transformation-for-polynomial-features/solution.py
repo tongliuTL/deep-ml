@@ -15,4 +15,4 @@ def phi_transform(data: list[float], degree: int) -> list[list[float]]:
 
 	x = np.asarray(data, dtype=float)
 
-	return np.vander(x, N=degree + 1, increasing=True).tolist()
+	return [[x ** i for i in range(degree+1)] for x in data]
