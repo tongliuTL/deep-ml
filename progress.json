@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T04:58:20.912Z",
+  "generated_at": "2026-11-08T02:26:16.900Z",
   "items": {
     "problem:277": {
       "kind": "problem",
@@ -141,6 +141,19 @@
       "path": "problems/0084-phi-transformation-for-polynomial-features",
       "first_solved_at": "2026-11-07T04:57:23.416Z",
       "last_pushed_at": "2026-11-07T04:58:20.421Z",
+      "language": "python",
+      "lines": 18
+    },
+    "problem:32": {
+      "kind": "problem",
+      "id": "32",
+      "title": "Generate Sorted Polynomial Features",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/32",
+      "path": "problems/0032-generate-sorted-polynomial-features",
+      "first_solved_at": "2026-11-08T02:26:15.548Z",
+      "last_pushed_at": "2026-11-08T02:26:15.548Z",
       "language": "python",
       "lines": 18
     }

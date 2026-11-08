@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**11** solved · 11 problems · 0 labs · 0 math
+**12** solved · 12 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -21,6 +21,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Calculate AUC (Area Under ROC Curve)](https://www.deep-ml.com/problems/277) | medium | 2026-10-20 | [solution](problems/0277-calculate-auc-area-under-roc-curve) |
 | [Calculate Expected Calibration Error (ECE)](https://www.deep-ml.com/problems/260) | medium | 2026-10-21 | [solution](problems/0260-calculate-expected-calibration-error-ece) |
 | [End-to-End Latency Decomposition](https://www.deep-ml.com/problems/413) | medium | 2026-10-23 | [solution](problems/0413-end-to-end-latency-decomposition) |
+| [Generate Sorted Polynomial Features](https://www.deep-ml.com/problems/32) | medium | 2026-11-08 | [solution](problems/0032-generate-sorted-polynomial-features) |
 | [Implement Gradient Boosting Regressor Step](https://www.deep-ml.com/problems/344) | medium | 2026-11-04 | [solution](problems/0344-implement-gradient-boosting-regressor-step) |
 | [XGBoost Objective Function Calculation](https://www.deep-ml.com/problems/347) | medium | 2026-11-04 | [solution](problems/0347-xgboost-objective-function-calculation) |
 
